@@ -13,17 +13,7 @@ The process entailed collecting, analyzing, and visualizing the data. Code gener
 
 Scatter Plots:
 
-<img src="https://github.com/miwermi/world-weather-analysis/blob/main/weather_data/Fig1.png" width="225" height="150" alt ="graphic: ">
-<img src="https://github.com/miwermi/world-weather-analysis/blob/main/weather_data/Fig2.png" width="225" height="150" alt ="graphic: ">
-<img src="https://github.com/miwermi/world-weather-analysis/blob/main/weather_data/Fig3.png" width="225" height="150" alt ="graphic: ">
-<img src="https://github.com/miwermi/world-weather-analysis/blob/main/weather_data/Fig4.png" width="225" height="150" alt ="graphic: ">
-<img src="https://github.com/miwermi/world-weather-analysis/blob/main/weather_data/Fig5.png" width="225" height="150" alt ="graphic: ">
-<img src="https://github.com/miwermi/world-weather-analysis/blob/main/weather_data/Fig6.png" width="225" height="150" alt ="graphic: ">
-<img src="https://github.com/miwermi/world-weather-analysis/blob/main/weather_data/Fig7.png" width="225" height="150" alt ="graphic: ">
-<img src="https://github.com/miwermi/world-weather-analysis/blob/main/weather_data/Fig8.png" width="225" height="150" alt ="graphic: ">
-<img src="https://github.com/miwermi/world-weather-analysis/blob/main/weather_data/Fig9.png" width="225" height="150" alt ="graphic: ">
-<img src="https://github.com/miwermi/world-weather-analysis/blob/main/weather_data/Fig10.png" width="225" height="150" alt ="graphic: ">
-<img src="https://github.com/miwermi/world-weather-analysis/blob/main/weather_data/Fig11.png" width="225" height="150" alt ="graphic: ">
+<img src="https://github.com/miwermi/world-weather-analysis/blob/main/weather_data/Fig1.png" width="225" height="150" alt ="graphic: "> <img src="https://github.com/miwermi/world-weather-analysis/blob/main/weather_data/Fig2.png" width="225" height="150" alt ="graphic: "> <img src="https://github.com/miwermi/world-weather-analysis/blob/main/weather_data/Fig3.png" width="225" height="150" alt ="graphic: "> <img src="https://github.com/miwermi/world-weather-analysis/blob/main/weather_data/Fig4.png" width="225" height="150" alt ="graphic: "> <img src="https://github.com/miwermi/world-weather-analysis/blob/main/weather_data/Fig5.png" width="225" height="150" alt ="graphic: "> <img src="https://github.com/miwermi/world-weather-analysis/blob/main/weather_data/Fig6.png" width="225" height="150" alt ="graphic: "> <img src="https://github.com/miwermi/world-weather-analysis/blob/main/weather_data/Fig7.png" width="225" height="150" alt ="graphic: "> <img src="https://github.com/miwermi/world-weather-analysis/blob/main/weather_data/Fig8.png" width="225" height="150" alt ="graphic: "> <img src="https://github.com/miwermi/world-weather-analysis/blob/main/weather_data/Fig9.png" width="225" height="150" alt ="graphic: "> <img src="https://github.com/miwermi/world-weather-analysis/blob/main/weather_data/Fig10.png" width="225" height="150" alt ="graphic: "> <img src="https://github.com/miwermi/world-weather-analysis/blob/main/weather_data/Fig11.png" width="225" height="150" alt ="graphic: ">
 
     Visualize Travel Data
 
