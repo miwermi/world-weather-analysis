@@ -19,6 +19,8 @@ Scatter Plots:
 
 Once relevant weather data was collected, cleaned, and the project possibilities verified, heat maps were generated for a richer user experience and work on collectng data on hotels in desireable weather locations was added to the database respository.
 
+STILL WORKING... 
+
 
     Visualize Travel Data
 
@@ -29,3 +31,4 @@ Once relevant weather data was collected, cleaned, and the project possibilities
         Store the name of the first hotel in the DataFrame.
         Add pop-up markers to the heatmap that display information about the city, current maximum temperature, and a hotel in the city.
 
+<img src="https://github.com/miwermi/world-weather-analysis/blob/main/Vacation_Search/WeatherPy_Vacation_Map.png" alt ="graphic: ">
