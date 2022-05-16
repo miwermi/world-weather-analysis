@@ -3,8 +3,8 @@
 ---
 
 <!--![alt](resources/___.png)-->
-<img src="https://github.com/miwermi/pyber-analysis/blob/main/.png" width="500" height="293" alt ="graphic: ">
-Pictured: 
+<img src="https://github.com/miwermi/pyber-analysis/blob/main/weather_data/www_apis.png" width="500" height="293" alt ="graphic: World Wide Weather">
+Pictured: World Wide Weather Travel Ap
 
 # Project Plan
 Weather data across cities worldwide was collected and analyzed via API calls to Google Maps and Open Weather Map. The client, PlanMyTrip, will use the data to recommend ideal hotels based on clients' weather preferences.
