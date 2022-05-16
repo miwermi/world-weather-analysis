@@ -9,9 +9,10 @@ Pictured:
 # Project Plan
 Weather data across cities worldwide was collected and analyzed via API calls to Google Maps and Open Weather Map. The client, PlanMyTrip, will use the data to recommend ideal hotels based on clients' weather preferences.
 
-Code generated Pandas DataFrames with 500 or more of the world's unique cities and their weather data in real time. The process entailed collecting, analyzing, and visualizing the data. A collection of thumbnail images from this analysis is displayed below:
+The process entailed collecting, analyzing, and visualizing the data. Code generated Pandas DataFrames with 500 or more of the world's unique cities and their weather data in real time. A collection of thumbnail images from the first portion of our analysis is displayed below. Scatter plots were used to identify trends by hemisphere, and linear regression was performed on characteristics such as minimum and maximum temperature, wind speed, cloudiness, and percent humidity.
 
 Scatter Plots:
+
 <img src="https://github.com/miwermi/world-weather-analysis/blob/main/weather_data/Fig1.png" width="225" height="150" alt ="graphic: ">
 <img src="https://github.com/miwermi/world-weather-analysis/blob/main/weather_data/Fig2.png" width="225" height="150" alt ="graphic: ">
 <img src="https://github.com/miwermi/world-weather-analysis/blob/main/weather_data/Fig3.png" width="225" height="150" alt ="graphic: ">
