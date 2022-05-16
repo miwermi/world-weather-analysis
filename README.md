@@ -17,7 +17,7 @@ Scatter Plots:
 
 # Analysis and App Development
 
-Once relevant data was collected, cleaned, and the project possibilities verified, heat maps were generated for a richer user experience and work on collectng data on hotels in desireable weather locations was added to the database respository.
+Once relevant weather data was collected, cleaned, and the project possibilities verified, heat maps were generated for a richer user experience and work on collectng data on hotels in desireable weather locations was added to the database respository.
 
 
     Visualize Travel Data
