@@ -23,7 +23,7 @@ With relevant weather data easily able to be grabbed in real time, development m
 
 # First Results
 
-It is known that our two data sources, Open Weather & Google Maps can be used to gather the very latest data on world weather and existing hotels at any time.  We can ask our users for input on their climate preferences and return hotels in cities that meet their climate preferences. We also were able to, if they requested multiple locations within one country (or drivable/walkable distance), to generate a travel itinerary map and store their trip cities. 
+It is known that our two data sources, Open Weather & Google Maps can be used to gather the very latest data on world weather and existing hotels at any time.  We can ask our users for input on their climate preferences and return hotels in cities that meet their climate preferences. We also were able - if they requested multiple locations within one country (or drivable/walkable distance) - to generate a travel itinerary map and store their trip cities. 
 For our final sample, 4 cities in Indonesia were selected (we chose a very warm minimum and maximum climate in our sample, so Bali, here we come!)
 
 <img src="https://github.com/miwermi/world-weather-analysis/blob/main/Vacation_Itenerary/WeatherPy_travel_map.png" width="800" height="320" alt ="graphic: Travel Map"> 
