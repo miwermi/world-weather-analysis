@@ -29,7 +29,7 @@ For our final sample, 4 cities in Indonesia were selected (we chose a very warm 
 <img src="https://github.com/miwermi/world-weather-analysis/blob/main/Vacation_Itenerary/WeatherPy_travel_map.png" width="800" height="320" alt ="graphic: Travel Map"> 
 <img src="https://github.com/miwermi/world-weather-analysis/blob/main/Vacation_Itenerary//WeatherPy_travel_map_markers.png" width="800" height="320" alt ="graphic: Travel Map with City Markers.">
 
-At this point most of the pieces of a successful application have been proven possible. Phase 1 of the project is a success. Follow-up might include: getting a design team working on the look of the app, a test user group for testing and feedback, and a decision making team to identify other useful things the app could do, and another coding piece might be to sort out how users might log in to access their map(s), save trips, and how much the service should cost. As additional features and details are sorted out, there is some real potential to created something users will love to use.  Planning vacations is, after all, always pretty dreamy!
+At this point most of the pieces of a successful application have been proven possible. Phase 1 of the project is a success. Follow-up might include: getting a design team working on the look of the app, a test user group for testing and feedback, and a decision making team to identify other useful things the app could do, and another coding piece might be to sort out how users might log in to access their map(s), save trips, and how much the service should cost. As additional features and details are sorted out, there is some real potential to create something users will love to use.  Planning vacations is, after all, always pretty dreamy!
 
 # Conclusions
 
