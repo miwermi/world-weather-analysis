@@ -19,7 +19,7 @@ Scatter Plots:
 
 With relevant weather data easily able to be grabbed in real time, we moved on to using google maps to generate heat maps on each climate attribute (temperature is displayed below) and then also collecting data on hotels. Our code asked an imaginary user to enter their ideal minimum and maximum temperatures and then returned hotels only in areas with climates related to those preferences. 
 
-<img src="https://github.com/miwermi/world-weather-analysis/blob/main/weather_data/heatmap.png" width="450" height="180" alt ="graphic: Fig. 13: Heat Map"> <img src="https://github.com/miwermi/world-weather-analysis/blob/main/weather_data/heatmap.png" width="450" height="180" alt ="graphic: Fig. 14: Hotel Map in preferred climate.">
+<img src="https://github.com/miwermi/world-weather-analysis/blob/main/weather_data/Fig13.png" width="450" height="180" alt ="graphic: Fig. 13: Heat Map"> <img src="https://github.com/miwermi/world-weather-analysis/blob/main/weather_data/Fig14.png" width="450" height="180" alt ="graphic: Fig. 14: Hotel Map in preferred climate.">
 
 
 
