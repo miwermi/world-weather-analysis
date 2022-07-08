@@ -1,10 +1,10 @@
-                                                                                           Michelle Werner (5/15/2022)
+<!--                                                                                           Michelle Werner (5/15/2022)-->
 # PlanMyTrip: World Weather & Travel Mapping
 ---
 
-<!--![alt](resources/___.png)-->
+<!--![alt](resources/___.png)-- >
 <img src="https://github.com/miwermi/world-weather-analysis/blob/main/weather_data/www_apis.png" width="500" height="293" alt ="graphic: World Wide Weather">
-Pictured: World Wide Weather Hotel Finder & Travel App
+Pictured: World Wide Weather Hotel Finder & Travel App -->
 
 # Project Overview
 Weather data across cities worldwide was collected and analyzed via API calls to Google Maps and Open Weather Map. The client, PlanMyTrip, will use the data to recommend ideal hotels based on clients' weather preferences.
